@@ -1,2 +1,5 @@
 # Scripts-for-CTFs
-repo for scripts related to CTFs i do
+Scripts for:
+-PicoCTF webshell + package customization
+OverTheWire CTFs
+so far and more to some :D
