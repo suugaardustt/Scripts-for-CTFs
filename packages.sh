@@ -4,7 +4,7 @@
 #
 
 apt-get install git
-apt-get install python
+apt-get install python3
 apt-get install net-tools
 apt-get install neofetch
 apt-get install 
